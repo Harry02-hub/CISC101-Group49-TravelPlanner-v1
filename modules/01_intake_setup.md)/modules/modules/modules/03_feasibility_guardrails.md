@@ -1,3 +1,5 @@
+Change Log (2025-11-11):update dietery needs to handle preferences like vegan or gluten free needs more smoothly with specific details
+
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
 
 1. **Closed Venue**
